@@ -1,0 +1,7 @@
+nmap
+whois
+dnsutils      # (Proporciona 'dig' y 'host')
+nikto
+whatweb
+gobuster
+wafw00f
